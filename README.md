@@ -1,7 +1,10 @@
 ## E ae, me chamo Adrian James
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianJames-B-L)](https://github.com/AdrianJames-B-L/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianJames-B-L&show_icons=true&theme=radical)](https://github.com/AdrianJames-B-L/github-readme-stats)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianJames-B-L&theme=radical&hide=javascript,html,css)](https://github.com/AdrianJames-B-L/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="James-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
